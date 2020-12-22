@@ -29,7 +29,7 @@ cloud providers and solutions, Heroku is very high level in its building blocks.
 that just wants to "host a CUBA application" somewhere, can achieve that goal with very little "heavy lifting" on the 
 operations side.
 
-In this example I will guide you through the Steps that are necessary to deploy the Petclinic project to Heroku.
+In this example I will guide you through the Steps that are necessary to deploy the Petclinic project to Heroku. 
 
 ### Step 1: Heroku and Github Account
 
